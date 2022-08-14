@@ -1,1 +1,1 @@
-## Q&A automation course from Otus.
+## Q&A automation course from Otus
